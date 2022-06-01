@@ -1,0 +1,236 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>El Alfabeto Español</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34910</md:content-id>
+  <md:title>El Alfabeto Español</md:title>
+  <md:abstract>This module teaches the pronunciation of the Spanish Alphabet.</md:abstract>
+  <md:uuid>2be05e94-6f76-41f6-a01b-8b699b276881</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://www.spanish.bz/alphabet.htm" strength="3">Spanish Alphabet Audio</link>
+      <link url="http://www.teachertube.com/viewVideo.php?video_id=123917&amp;title=Spanish_alphabet_song" strength="3">Spanish Alphabet Video</link>
+      <link url="http://www.worldofteaching.com/powerpoints/spanish/El%20Alfabeto.ppt#266,13,L,l" strength="3">Spanish Alphabet Powerpoint</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1493166">
+      <title>The Spanish Alphabet</title>
+      <table id="id5750347" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>letter</entry>
+              <entry>pronunciation</entry>
+              <entry>example</entry>
+              <entry>meaning</entry>
+            </row>
+            <row>
+              <entry>A a</entry>
+              <entry>a</entry>
+              <entry>arriba</entry>
+              <entry>up</entry>
+            </row>
+            <row>
+              <entry>B b</entry>
+              <entry>be</entry>
+              <entry>barca</entry>
+              <entry>boat</entry>
+            </row>
+            <row>
+              <entry>C c</entry>
+              <entry>ce</entry>
+              <entry>carretera</entry>
+              <entry>road/highway</entry>
+            </row>
+            <row>
+              <entry>D d</entry>
+              <entry>de</entry>
+              <entry>ducha</entry>
+              <entry>shower/bath</entry>
+            </row>
+            <row>
+              <entry>E e</entry>
+              <entry>e</entry>
+              <entry>empanada</entry>
+              <entry>a savory filled pastry</entry>
+            </row>
+            <row>
+              <entry>F f</entry>
+              <entry>efe</entry>
+              <entry>falda</entry>
+              <entry>skirt</entry>
+            </row>
+            <row>
+              <entry>G g</entry>
+              <entry>ge</entry>
+              <entry>gata</entry>
+              <entry>cat</entry>
+            </row>
+            <row>
+              <entry>H h</entry>
+              <entry>hache</entry>
+              <entry>hermana</entry>
+              <entry>sister</entry>
+            </row>
+            <row>
+              <entry>I i</entry>
+              <entry>i</entry>
+              <entry>isla</entry>
+              <entry>island</entry>
+            </row>
+            <row>
+              <entry>J j</entry>
+              <entry>jota</entry>
+              <entry>jamón</entry>
+              <entry>ham</entry>
+            </row>
+            <row>
+              <entry>K k*</entry>
+              <entry>ka</entry>
+              <entry>kilómetro</entry>
+              <entry>kilometer</entry>
+            </row>
+            <row>
+              <entry>L l</entry>
+              <entry>ele</entry>
+              <entry>lejos</entry>
+              <entry>far</entry>
+            </row>
+            <row>
+              <entry>M m</entry>
+              <entry>eme</entry>
+              <entry>mano</entry>
+              <entry>hand</entry>
+            </row>
+            <row>
+              <entry>N n</entry>
+              <entry>ene</entry>
+              <entry>nariz</entry>
+              <entry>nose</entry>
+            </row>
+            <row>
+              <entry>Ñ ñ</entry>
+              <entry>eñe</entry>
+              <entry>niña</entry>
+              <entry>girl</entry>
+            </row>
+            <row>
+              <entry>O o</entry>
+              <entry>o</entry>
+              <entry>ojo</entry>
+              <entry>eye</entry>
+            </row>
+            <row>
+              <entry>P p</entry>
+              <entry>pe</entry>
+              <entry>pan</entry>
+              <entry>bread</entry>
+            </row>
+            <row>
+              <entry>Q q</entry>
+              <entry>cu</entry>
+              <entry>qué</entry>
+              <entry>who</entry>
+            </row>
+            <row>
+              <entry>R r</entry>
+              <entry>ere</entry>
+              <entry>rey</entry>
+              <entry>king</entry>
+            </row>
+            <row>
+              <entry>S s</entry>
+              <entry>ese</entry>
+              <entry>sobre</entry>
+              <entry>over</entry>
+            </row>
+            <row>
+              <entry>T t</entry>
+              <entry>te</entry>
+              <entry>tienda</entry>
+              <entry>store</entry>
+            </row>
+            <row>
+              <entry>U u</entry>
+              <entry>u</entry>
+              <entry>unidad</entry>
+              <entry>unity</entry>
+            </row>
+            <row>
+              <entry>V v</entry>
+              <entry>ve</entry>
+              <entry>vaca</entry>
+              <entry>cow</entry>
+            </row>
+            <row>
+              <entry>W w*</entry>
+              <entry>uve doble</entry>
+              <entry namest="c3" nameend="c4">(only foreign words, pronunciation varies)</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry>watt</entry>
+              <entry>(pronounced like bat)</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry>kiwi</entry>
+              <entry>(pronounced like quihui)</entry>
+            </row>
+            <row>
+              <entry>X x</entry>
+              <entry>equis</entry>
+              <entry>xilófono</entry>
+              <entry>xylophone</entry>
+            </row>
+            <row>
+              <entry>Y y</entry>
+              <entry>i griega</entry>
+              <entry>ya</entry>
+              <entry>already</entry>
+            </row>
+            <row>
+              <entry>Z z</entry>
+              <entry>zeta</entry>
+              <entry>zapata</entry>
+              <entry>shoe</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c4">Spanish has three digraphs. At one point they were considered separate letters, but no longer are, and are now alphabetized normally.</entry>
+            </row>
+            <row>
+              <entry>Ch ch</entry>
+              <entry/>
+              <entry>chicle</entry>
+              <entry>chewing gum</entry>
+            </row>
+            <row>
+              <entry>Ll ll</entry>
+              <entry/>
+              <entry>llave</entry>
+              <entry>key</entry>
+            </row>
+            <row>
+              <entry>Rr rr</entry>
+              <entry/>
+              <entry>perro</entry>
+              <entry>dog</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c4">*Although K and W are officially in the Spanish alphabet, there are few words that use the letters, and they are primarily of foreign origin.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
